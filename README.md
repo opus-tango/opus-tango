@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 https://githubstats-pink.vercel.app/
 
-[![Anurag's GitHub stats](https://githubstats-pink.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://githubstats-pink.vercel.app/api?username=opus-tango)](https://github.com/anuraghazra/github-readme-stats)
