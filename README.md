@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 https://githubstats-pink.vercel.app/
 
-[![Anurag's GitHub stats](https://githubstats-pink.vercel.app/api?username=opus-tango&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nayan's GitHub stats](https://githubstats-pink.vercel.app/api?username=opus-tango&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+https://githubstats-pink.vercel.app/api?username=GShadow5&limit=5&theme=dark&combine_all_yearly_contributions=true
