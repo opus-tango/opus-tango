@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently building a photography portfolio platform
+🔭 I'm a passionate software engineer, photographer, dancer, and sailor. Right now I am leading development at Crammd LLC, a startup building an SAT test preparation platform that helps students prepare for test day by adapting to their learning in real time. 
+
+I love building software at all levels, from low-level tools in C to full stack web applications in modern frameworks like Next.js and React. My portfolio includes a range of projects, including small things like a Discord bot for managing large amounts of Minecraft servers, and large things like a full stack web app for tracking sales call data in ticket sales offices.
+
+In addition to my professional life, I am passionate about Argentine Tango, photography, sailing, and have a background in violin performance. 
 
 
 ## 🌐 Socials:
